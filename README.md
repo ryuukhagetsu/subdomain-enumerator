@@ -2,7 +2,9 @@
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey)](https://github.com/)
+[![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey)](https://github.com/ryuukhagetsu/subdomain-enumerator)
+[![GitHub stars](https://img.shields.io/github/stars/ryuukhagetsu/subdomain-enumerator)](https://github.com/ryuukhagetsu/subdomain-enumerator/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/ryuukhagetsu/subdomain-enumerator)](https://github.com/ryuukhagetsu/subdomain-enumerator/issues)
 
 **Advanced subdomain enumeration tool** designed for penetration testers and security researchers. Combines multiple reconnaissance techniques with intelligent analysis to discover and analyze subdomains with actionable pentesting insights.
 
@@ -44,7 +46,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/subdomain-enumerator.git
+git clone https://github.com/ryuukhagetsu/subdomain-enumerator.git
 cd subdomain-enumerator
 
 # Install dependencies
@@ -247,7 +249,7 @@ We welcome contributions! Here's how to get started:
 ### Development Setup
 ```bash
 # Fork and clone the repository
-git clone https://github.com/yourusername/subdomain-enumerator.git
+git clone https://github.com/ryuukhagetsu/subdomain-enumerator.git
 cd subdomain-enumerator
 
 # Create development environment
@@ -311,18 +313,16 @@ The developers are not responsible for any misuse of this tool. Users are solely
 ## 📞 Support & Community
 
 ### 🐛 **Bug Reports**
-- **GitHub Issues**: [Report bugs](https://github.com/yourusername/subdomain-enumerator/issues)
-- **Security Issues**: Send privately to [your-email@domain.com]
+- **GitHub Issues**: [Report bugs](https://github.com/ryuukhagetsu/subdomain-enumerator/issues)
+- **Security Issues**: Send privately to security@ryuukhagetsu.dev
 
 ### 💬 **Community**
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/subdomain-enumerator/discussions)
-- **Discord**: [Join our Discord server](#)
-- **Twitter**: [@yourusername](#)
+- **Discussions**: [GitHub Discussions](https://github.com/ryuukhagetsu/subdomain-enumerator/discussions)
+- **GitHub**: [@ryuukhagetsu](https://github.com/ryuukhagetsu)
 
 ### 📧 **Contact**
-- **General Questions**: [your-email@domain.com]
-- **Professional Services**: [business@domain.com]
-- **Collaboration**: [collab@domain.com]
+- **General Questions**: Contact via GitHub Issues
+- **Collaboration**: Open to collaboration via GitHub
 
 ## 📊 Statistics & Metrics
 
@@ -365,7 +365,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2025 RyuuKhagetsu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
